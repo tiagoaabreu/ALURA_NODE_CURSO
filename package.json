@@ -1,0 +1,21 @@
+{
+  "name": "alura_node_curso",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "Esse repositorio é para separar o conhecimento adquirido nos cursos da alura de NodeJS somente.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoaabreu/ALURA_NODE_CURSO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagoaabreu/ALURA_NODE_CURSO/issues"
+  },
+  "homepage": "https://github.com/tiagoaabreu/ALURA_NODE_CURSO#readme"
+}
